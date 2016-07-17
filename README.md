@@ -9,9 +9,17 @@ Minimal-Game-Development project templates
 ## Build
 
 ```
-npm install -g webpack
+npm install -g webpack typescript
+npm link typescript
 
-webpack
+webpack  // --watch for continuous build
 ```
 
-Open the `index.html` file, expect to see "Hello world" in the console output
+## Run
+```
+npm install -g http-server
+
+http-server
+```
+
+Go to `localhost:8080`, hope should see a rotating funny bunny
