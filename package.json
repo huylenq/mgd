@@ -11,10 +11,9 @@
         "webpack"
     ],
     "author": "huy.lenq@gmail.com",
-    "repository" :
-    {
-        "type" : "git",
-        "url" : "git@github.com:huylenq/typescript-webpack-template.git"
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:huylenq/typescript-webpack-template.git"
     },
     "license": "ISC",
     "devDependencies": {
