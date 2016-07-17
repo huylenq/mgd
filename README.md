@@ -22,4 +22,4 @@ npm install -g http-server
 http-server
 ```
 
-Go to `localhost:8080`, hope should see a rotating funny bunny
+Go to `localhost:8080`, hope you see a rotating funny bunny
