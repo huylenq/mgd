@@ -1,7 +1,7 @@
 {
     "name": "typescript-webpack",
     "version": "0.0.1",
-    "description": "Minimal template project with TypeScript and Webpack",
+    "description": "Minimal template project with Pixi.js + TypeScript + Webpack",
     "main": "dist/bundle.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,11 @@
     "devDependencies": {
         "source-map-loader": "^0.1.5",
         "ts-loader": "^0.8.2"
+    },
+    "dependencies": {
+        "brfs": "^1.4.3",
+        "json-loader": "^0.5.4",
+        "pixi.js": "^3.0.11",
+        "transform-loader": "^0.2.3"
     }
 }

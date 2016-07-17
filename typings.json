@@ -1,4 +1,7 @@
 {
   "name": "typescript-webpack",
-  "dependencies": {}
+  "dependencies": {},
+  "globalDependencies": {
+    "pixi.js": "registry:dt/pixi.js#3.0.9+20160705114540"
+  }
 }

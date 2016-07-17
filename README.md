@@ -1,1 +1,5 @@
-Minimal template project with TypeScript and Webpack
+Minimal template project with
+
++ Pixi.js
++ TypeScript
++ Webpack
