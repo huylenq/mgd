@@ -1,7 +1,7 @@
 {
-    "name": "typescript-webpack",
+    "name": "MGD",
     "version": "0.0.1",
-    "description": "Minimal template project with Pixi.js + TypeScript + Webpack",
+    "description": "Minimal Game Development template project",
     "main": "dist/bundle.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "author": "huy.lenq@gmail.com",
     "repository": {
         "type": "git",
-        "url": "git@github.com:huylenq/typescript-webpack-template.git"
+        "url": "git@github.com:huylenq/mgd.git"
     },
     "license": "ISC",
     "devDependencies": {

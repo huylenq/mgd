@@ -1,4 +1,6 @@
-Minimal template project with
+Minimal-Game-Development project templates
+
+## Batteries included:
 
 + Pixi.js
 + TypeScript
